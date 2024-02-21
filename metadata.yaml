@@ -1,5 +1,8 @@
 _repo: Storia-degli-Italiani-vol-14-di-15_72866
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72866-h/images/cover.jpg
 creator:
   author:
     agent_name: Cantù, Cesare
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Cesare_Cantù
     - https://it.wikipedia.org/wiki/Cesare_Cant%C3%B9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72866#Storia-degli-Italiani-vol-14-di-15
 gutenberg_issued: '2024-02-03'
 gutenberg_type: Text
 identifiers:
